@@ -1,10 +1,11 @@
 header.main-header{
     background-color: orangered;
     display: flex;
-    justify-content: space-between;
+   justify-content: space-around;
    
 }
 header.main-header .logo{
+
 
 }
 header.main-header .title-header{
@@ -21,8 +22,6 @@ header.main-header .burguer-menu{
 
 }
 header.main-header .log{
-
-}
-header.main-header .log-reg{
-
+display: flex;
+justify-content: space-between;
 }
