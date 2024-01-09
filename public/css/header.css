@@ -1,15 +1,17 @@
 header.main-header{
-    background-color: orangered
+    background-color: orangered;
+    display: flex;
+    justify-content: space-between;
    
 }
- .logo{
+header.main-header .logo{
 
 }
-.title-header{
-color: black;
+header.main-header .title-header{
+
 }
-.title-header-two{
-color: black;
+header.main-header .title-header-two{
+
 }
 header.main-header .title-header-tree{
 
